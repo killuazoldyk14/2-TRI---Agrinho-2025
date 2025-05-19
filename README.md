@@ -1,5 +1,5 @@
 • NRE;
-• Município;
+• Município; Rolândia
 • Nome da Instituição de Ensino;
 • Nome do diretor;
 • E-mail institucional da escola;
